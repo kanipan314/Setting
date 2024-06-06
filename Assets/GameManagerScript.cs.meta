@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0be3392fcdf4b1841a31c66770ec4dab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 5937645849932260523, guid: eb4c8a9736472394186182ccddb582c5, type: 3}
+  - boxPrefab: {fileID: 3683034492131678556, guid: b04f061bd38d3034c90c791afcef0e6e, type: 3}
+  - goalPrefab: {fileID: 6632694784694643983, guid: c1e056bb5aaf6874a918e72330840d30, type: 3}
+  - clearText: {instanceID: 0}
+  - wallPrefab: {fileID: 7628722463235069298, guid: 83f9f383252ade340bdaf62fe589660a, type: 3}
+  - particlePrefab: {fileID: 5495396326311382504, guid: b5806ec10fb91474c867f761af27a550, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
